@@ -1,6 +1,7 @@
 # flutterexample
 
 A new Flutter application.
+An example on expansionpanellist The code is written in main.dart file.
 
 ## Getting Started
 
